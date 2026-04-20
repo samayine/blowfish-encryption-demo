@@ -1,0 +1,21 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Project-specific outputs
+*.enc
+*.dec
+
+# IDEs
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store

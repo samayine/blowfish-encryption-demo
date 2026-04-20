@@ -1,0 +1,7 @@
+This is a sample text file for testing the Blowfish file encryption demonstration.
+It contains some sensitive data that needs to be encrypted securely.
+1. Confidential Project Data
+2. Security Keys
+3. User Information
+
+End of file.
